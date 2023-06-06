@@ -1,5 +1,6 @@
+//Squares of a Sorted Array
+//https://leetcode.com/problems/squares-of-a-sorted-array/
 import java.util.Arrays;
-
 public class SqaresofSortedarray {
     public static void main(String[] args) {
         int[] nums = {-11, 2, 4, 6, 8, 10, 11};
