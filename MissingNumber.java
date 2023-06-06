@@ -1,3 +1,4 @@
+//https://leetcode.com/problems/missing-number/
 import java.util.stream.IntStream;
 
 public class MissingNumber {
